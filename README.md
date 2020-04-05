@@ -19,6 +19,7 @@ Now we have to generate a single sentence from the four outputs, which will be d
 
 
 दक्षिणी इराक के में/0 प्रोटिस्टों/प्रोटेस्टरों/प्रोटेस्टर्स ने कुवैत से/0 साथ सीमा पर को/0 रोक/अवरोध अवरुद्ध/0 लगा दिया/0 दी है और कई तेल क्षेत्रों भी कब्जा कर लिया .
+
 But it would be better if we place synonyms at a single index.This can be done with the help of indexing.Each word in a sentence is assigned with an index. So we have taken all the characters which are present in the same index. If all the words in a particular index are same then it will be printed as it is and if not then it will check that the words are synonyms with the help of dictionary and will be printed as:
 
 word1/word2/word3/word4.
