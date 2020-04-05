@@ -7,10 +7,10 @@ Protesters in southern Iraq have blockaded the border with Kuwait and have also 
 
 Then , their correspoinding outputs are-
 
-दक्षिणी इराक के प्रोटेस्टर्स ने कुवैत के साथ सीमा पर रोक लगा दी है और कई तेल क्षेत्रों पर भी कब्जा कर लिया है .
+दक्षिणी इराक के प्रोटेस्टर्स ने कुवैत के साथ सीमा पर रोक लगा दी है और कई तेल क्षेत्रों पर भी कब्जा कर लिया है . \n
 दक्षिणी इराक के प्रोटेस्टरों ने कुवैत के साथ सीमा को अवरुद्ध कर दिया है और कई तेल क्षेत्रों पर कब्जा कर लिया है .
 दक्षिणी इराक में प्रोटेस्टरों ने कुवैत से सीमा पर अवरोध कर दिया है और कई तेल क्षेत्रों पर भी कब्जा कर लिया है .
-दक्षिणी इराक में प्रोटिस्टों ने कुवैत के साथ सीमा पर अवरोध कर दिया है और कई तेल क्षेत्रों पर कब्जा कर लिया है ।
+दक्षिणी इराक में प्रोटिस्टों ने कुवैत के साथ सीमा पर अवरोध कर दिया है और कई तेल क्षेत्रों पर कब्जा कर लिया है । 
 
 Now we have to generate a single sentence from the four outputs, which will be done with the help of indexing. The single sentence must contain all the words present in all the 4 sentences.
 
